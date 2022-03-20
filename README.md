@@ -27,6 +27,9 @@ Examine on seasonal differences
   <img src="https://github.com/LiLiu1118/Machine-Learning-Gruppenarbeit/blob/main/Abbildungen/WindRosePark2.png"  width="300" height="200" /> 
 </p>
 
+<p float="left">
+  <img src="https://github.com/LiLiu1118/Machine-Learning-Gruppenarbeit/blob/main/Abbildungen/SOM-Park1.png width="300" height="200"/>
+</p>
 
 From the given wind farms it can be seen that the power output can be concluded with relatively good accuracy using hierarchical clustering based on the environmental parameters. However, the turbines are regulated from a certain power level upwards, so that high wind speeds no longer lead to a better output. The self-organizing maps made it clear that the operating company should pay very close attention to the wind speed. Ideally, positions should be chosen which do not necessarily have very high wind speeds, but a steady current. After all, this is by far the most important factor for increasing electricity production and in this case the energy can be used best. 
 
